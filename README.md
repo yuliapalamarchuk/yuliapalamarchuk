@@ -58,5 +58,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuliapalamarchuk&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuliapalamarchuk&theme=vue-dark&border_radius=6.2&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
