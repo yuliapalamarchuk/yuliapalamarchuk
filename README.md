@@ -21,11 +21,11 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   from Russia.
 
-- :Frontend: I use the Vue.js framework and Quasar to create different websites and web applications.
+- Frontend: I use the Vue.js framework and Quasar to create different websites and web applications.
 
-- :Backend: I use Node.js 
+- Backend: I use Node.js 
 
-- :Future plans: I plan to study React and php.
+- Future plans: I plan to study React and php.
 
-- :Mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gmail-purple?style=flat&logo=Gmail&logoColor=white)](your-linkedin-url)
+- Mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-purple?style=flat&logo=Gmail&logoColor=white)](https://yuliafamusova@gmail.com)
 
