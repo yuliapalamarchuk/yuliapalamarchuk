@@ -5,6 +5,9 @@
    <a href="https://t.me/silverp178">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
+    <a href="https://yuliafamusova@gmail.com">
+<img src="https://img.shields.io/badge/-gmail-purple?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+      </a>
 </div> 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yuliapalamarchuk&style=flat-square&color=blue" alt=""/>
@@ -16,5 +19,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   from Russia.
+
+- :Frontend: I use the Vue.js framework and Quasar to create different websites and web applications.
+
+- :Backend: I use Node.js 
+
+- :Future plans: I plan to study React and php.
+
+- :Mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gmail-purple?style=flat&logo=Gmail&logoColor=white)](your-linkedin-url)
 
